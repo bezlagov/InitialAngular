@@ -1,0 +1,31 @@
+.footer {
+  min-height: 200px;
+  background-color: #333030;
+  display: flex;
+  color: #f0ffff;
+  justify-content: space-between;
+}
+
+.footer div {
+  margin: 20px;
+}
+
+.description {
+  width: 60%;
+}
+
+.custom-link:link{
+  color: #00ffff;
+}
+
+.custom-link:hover{
+  color: #ff0000;
+}
+
+.custom-link:visited{
+  color: #2f6161;
+}
+
+.custom-link:active{
+  color: #ec5252;
+}

@@ -1,0 +1,10 @@
+.content{
+  background-color: #ecf5f5;
+  padding: 15px;
+}
+
+.content p{
+  color: #100c54;
+  font-size: 10px;
+  font-style: italic;
+}

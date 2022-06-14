@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  min-height: 80px;
+  background-color: #000;
+}
+
+.title {
+  color: #fff;
+  text-align: center;
+  line-height: 80px;
+}
